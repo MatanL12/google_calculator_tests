@@ -10,7 +10,7 @@ Before running the project, make sure you have the following dependencies instal
 
 ## Installation
 
-1. Unpack the project folder in your local machine.
+1. Clone the repository.
 
 2. Open a command prompt or terminal and navigate to the project folder.
 

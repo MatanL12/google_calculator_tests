@@ -1,0 +1,17 @@
+{
+  "name": "autofleet_home_assinment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest app.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.10.0"
+  }
+}
